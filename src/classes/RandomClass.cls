@@ -2,6 +2,7 @@
  * SCH 17/07/2015
  * Maj 11h13
  * Maj 13h53
+ * Maj Dev1 14h23 
  */
 public with sharing class RandomClass {
 	//Method to reverse a string
