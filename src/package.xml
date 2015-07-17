@@ -46,7 +46,7 @@
         <name>ConnectedApp</name>
     </types>
     <types>
-        <members>*</members>
+         <members>*</members>
         <name>CustomApplication</name>
     </types>
     <types>
