@@ -222,9 +222,5 @@
         <members>*</members>
         <name>Workflow</name>
     </types>
-    <types>
-        <members>*</members>
-        <name>Settings</name>
-    </types>
     <version>33.0</version>
 </Package>
